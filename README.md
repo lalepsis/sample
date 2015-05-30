@@ -1,2 +1,2 @@
 # sample
-just an example
+just an example (lalepsis)
